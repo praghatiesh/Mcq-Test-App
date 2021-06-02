@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.content {
+  text-align: center;
+  background-color: #ffffffbd;
+  border-radius: 18px;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+body {
+  background-image: url("https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+  background-size: 100%;
+}
